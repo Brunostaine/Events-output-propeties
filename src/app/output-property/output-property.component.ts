@@ -14,6 +14,7 @@ export class OutputPropertyComponent implements OnInit {
   }
 
   decrementa(){
+    if(this.valor >= 1)
     this.valor--;
   }
 
