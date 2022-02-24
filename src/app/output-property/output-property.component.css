@@ -1,0 +1,19 @@
+.component {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+button {
+    width: 80px;
+    margin-left: 8px;
+    margin-right: 8px;
+    font-size: 2rem;
+}
+
+input {
+    width: 100px;
+    font-size: 2rem;
+    text-align: center;
+}
